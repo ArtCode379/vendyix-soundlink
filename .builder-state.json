@@ -1,0 +1,17 @@
+{
+  "phase": "scaffold_cloned",
+  "updated_at": "2026-08-24T06:07:05.165032+00:00",
+  "slug": "vendyix-soundlink",
+  "type": "shop",
+  "package": "vendyix.musical.vendyixsoundlink",
+  "prefix": "UDLXJ",
+  "app_name": "Vendyix SoundLink",
+  "task_gid": "1217494074751001",
+  "task_name": "GB GW4 C1496",
+  "asana_url": "https://app.asana.com/1/1208304498069546/project/1213586227413017/task/1217494074751001",
+  "domain": "https://vendyix.surf",
+  "company": "VENDYIX LTD",
+  "repo_url": "https://github.com/ArtCode379/vendyix-soundlink",
+  "quality_status": "not_run",
+  "build_status": "not_run"
+}
